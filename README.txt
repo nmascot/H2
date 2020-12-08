@@ -4,6 +4,8 @@ The code files that must be executed are the "Step" files. For n=1,...,9, Step{n
 
 Additionally, Step5.gp requires the author's package to compute p-adically Galois representations found in the torsion of Jacobians of curves. This package is available at https://github.com/nmascot/LiftTors.
 
-This package is provided in the hope it will be useful, but comes without any guarantee whatsoever.
+The file "Final results.txt" contains the data obtained at Step 8, as well as some extra data mentioned in the article.
 
-Nicolas Mascot, December 7, 2020
+This code and these data are provided in the hope that they will be useful, but come without any guarantee whatsoever.
+
+Nicolas Mascot, December 8, 2020
